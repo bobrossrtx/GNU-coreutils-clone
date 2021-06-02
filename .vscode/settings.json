@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "buffer-lcm.h": "c",
+    "stddef.h": "c"
+  }
+}
